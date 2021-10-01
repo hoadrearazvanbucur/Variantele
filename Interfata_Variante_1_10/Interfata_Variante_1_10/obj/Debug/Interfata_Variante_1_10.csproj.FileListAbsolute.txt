@@ -1,0 +1,10 @@
+D:\1_PROGRAMARE\C++\TEMA VARIANTE BAC\1_SEPTEMBRIE\26\Interfata_Variante_1_10\Interfata_Variante_1_10\bin\Debug\Interfata_Variante_1_10.exe.config
+D:\1_PROGRAMARE\C++\TEMA VARIANTE BAC\1_SEPTEMBRIE\26\Interfata_Variante_1_10\Interfata_Variante_1_10\bin\Debug\Interfata_Variante_1_10.exe
+D:\1_PROGRAMARE\C++\TEMA VARIANTE BAC\1_SEPTEMBRIE\26\Interfata_Variante_1_10\Interfata_Variante_1_10\bin\Debug\Interfata_Variante_1_10.pdb
+D:\1_PROGRAMARE\C++\TEMA VARIANTE BAC\1_SEPTEMBRIE\26\Interfata_Variante_1_10\Interfata_Variante_1_10\obj\Debug\Interfata_Variante_1_10.csprojAssemblyReference.cache
+D:\1_PROGRAMARE\C++\TEMA VARIANTE BAC\1_SEPTEMBRIE\26\Interfata_Variante_1_10\Interfata_Variante_1_10\obj\Debug\Interfata_Variante_1_10.Properties.Resources.resources
+D:\1_PROGRAMARE\C++\TEMA VARIANTE BAC\1_SEPTEMBRIE\26\Interfata_Variante_1_10\Interfata_Variante_1_10\obj\Debug\Interfata_Variante_1_10.csproj.GenerateResource.cache
+D:\1_PROGRAMARE\C++\TEMA VARIANTE BAC\1_SEPTEMBRIE\26\Interfata_Variante_1_10\Interfata_Variante_1_10\obj\Debug\Interfata_Variante_1_10.csproj.CoreCompileInputs.cache
+D:\1_PROGRAMARE\C++\TEMA VARIANTE BAC\1_SEPTEMBRIE\26\Interfata_Variante_1_10\Interfata_Variante_1_10\obj\Debug\Interfata_Variante_1_10.exe
+D:\1_PROGRAMARE\C++\TEMA VARIANTE BAC\1_SEPTEMBRIE\26\Interfata_Variante_1_10\Interfata_Variante_1_10\obj\Debug\Interfata_Variante_1_10.pdb
+D:\1_PROGRAMARE\C++\TEMA VARIANTE BAC\1_SEPTEMBRIE\26\Interfata_Variante_1_10\Interfata_Variante_1_10\obj\Debug\Interfata_Variante_1_10.MockupMeniu.resources
